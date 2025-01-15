@@ -33,3 +33,6 @@
 큐(Queue) : FIFO(선입선출)형 자료구조, python에서는 deque을 사용해 append, popleft로 구현 가능
 
 재귀 함수(Recursive function) : 함수 내부에서 반복적으로 함수를 호출하는 함수
+
+DFS(Depth First Search) : Tree 구조에서 깊이 있는 값들을 우선적으로 탐색 (보통 stack or 재귀 함수 사용)
+
