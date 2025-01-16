@@ -34,5 +34,6 @@
 
 재귀 함수(Recursive function) : 함수 내부에서 반복적으로 함수를 호출하는 함수
 
-DFS(Depth First Search) : Tree 구조에서 깊이 있는 값들을 우선적으로 탐색 (보통 stack or 재귀 함수 사용)
+DFS(Depth First Search) : Tree 구조에서 깊이 있는 값들을 우선적으로 탐색 (보통 stack or 재귀 함수 사용) -> 가장 위부터 방문처리 후 재귀를 통해 제일 안쪽까지 쭉 훑기
 
+BFS(Breadth First Search) : 그래프에서 가까운 노드부터 우선적으로 탐색하는 알고리즘 (Queue 자료구조 사용) -> 가장 위부터 방문처리 후 갈 수 있는 모든 루트 큐에 차례로 추가
